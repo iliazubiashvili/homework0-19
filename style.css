@@ -14,21 +14,13 @@ body{
     margin-left: 50px;
     margin-top: 40px;
 }
-
-
 .title{
     margin-left: 100px;
     margin-top: -50px;
 }
-
-
-    
-
 li{
     display:inline-flex;
     list-style: none;
-  
-
 }
 nav{
     margin-left: 1000px;
@@ -41,24 +33,17 @@ nav{
     margin-left: 30px;
 }
 .input{
-   
-box-sizing: border-box;
-width: 1200px;
-height: 87px;
-left: 166x;
-top: 175px;
-background: #FFFFFF;
-border: 1px solid #000000;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 62px;
-margin-left: 20px;
-margin-top: 100px;
-}
-.input :hover{
-
-    
-
-
+    box-sizing: border-box;
+    width: 1200px;
+    height: 87px;
+    left: 166x;
+    top: 175px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 62px;
+    margin-left: 20px;
+    margin-top: 100px;
 }
 .search{
     border: none;
@@ -74,18 +59,13 @@ margin-top: 100px;
     margin-top: -25px;
     
 }
-
-
 .line::after{
     content: "";
-    
     width: 2px;
     height: 88px;
     background-color: rgb(5, 6, 6);
     margin-left: 40px;
     margin-top: -60px;
-    
-
 }
 .talent{
     display:inline-flex;
@@ -116,7 +96,6 @@ margin-top: 100px;
     background: #FFFFFF;
     border: 1px solid #000000;
     border-radius: 30px;
-
 }
 .border{
     display: flex wrap;
@@ -138,7 +117,6 @@ margin-left: 470px;
     padding: 20px;
 }
 .right{
-    
     background-color:#087DBF ;
     margin-left: 10px;
     margin-top: -80px;
@@ -146,8 +124,6 @@ margin-left: 470px;
 .container-2{
     display: flex start;
     margin-top: 20px;
-
-
 }
 .send-2{
     display: flex center;
@@ -160,7 +136,6 @@ margin-left: 470px;
 .message{
     color: white;
     margin-top: -23px;
-    
 }
 .information-2{
 
@@ -175,8 +150,6 @@ margin-left: 470px;
     display: flex;
     margin-left: 10px;
     margin-top:6px;
-    
-    
 }
 .information-3{
     margin-left: 160px;
@@ -187,23 +160,21 @@ margin-left: 470px;
     margin-top: -2px;
 }
 .star-3{
-     margin-left: 305px;
+    margin-left: 305px;
     margin-top: -105px;
 }
 .ui-ux{
     box-sizing: border-box;
     padding: 20px;
     margin-left: -100px;
-
-position: absolute;
-width: 392px;
-height: 460px;
-left: 146px;
-top: 312px;
-
-background: #FFFFFF;
-border: 1px solid #000000;
-border-radius: 30px;
+    position: absolute;
+    width: 392px;
+    height: 460px;
+    left: 146px;
+    top: 312px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
 }
 .information-7{
     margin-left: -230px;
